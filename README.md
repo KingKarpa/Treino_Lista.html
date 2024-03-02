@@ -1,7 +1,7 @@
-# Projeto-Lista
+# Lista
 Uma lista para inserção de tarefas que retém as tarefas listadas mesmo após fechar a página.
 
-[Teste Aqui](https://kingkarpa.github.io/Projeto-Lista/)
+[Teste Aqui](https://kingkarpa.github.io/Treino_Lista.html/)
 
 **Atividade de curso**
 
